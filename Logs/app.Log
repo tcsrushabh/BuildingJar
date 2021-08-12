@@ -1,0 +1,6 @@
+2021-08-12 11:14:11,799 ERROR a.LoggingDemo [main] error
+2021-08-12 11:14:11,802 FATAL a.LoggingDemo [main] fatal
+2021-08-12 11:14:11,803 WARN a.LoggingDemo [main] warm
+2021-08-12 11:15:02,275 ERROR a.LoggingDemo [main] error
+2021-08-12 11:15:02,278 FATAL a.LoggingDemo [main] fatal
+2021-08-12 11:15:02,278 WARN a.LoggingDemo [main] warm
